@@ -1,0 +1,43 @@
+[
+    {
+      "question": "What is the capital of France?",
+      "answer": "The capital of France is Paris. Known as 'The City of Light', Paris is famous for its rich history, iconic landmarks like the Eiffel Tower, and its significance in art, fashion, and culture. It is one of the most visited cities in the world and serves as a major hub for commerce, diplomacy, and intellectual pursuits."
+    },
+    {
+      "question": "Who wrote 'Hamlet'?",
+      "answer": "Hamlet was written by William Shakespeare, one of the greatest playwrights in the history of English literature. The play is a tragedy, believed to have been written sometime between 1599 and 1601, and it tells the story of Prince Hamlet of Denmark. Hamlet is a complex character whose quest for revenge against his uncle, who has murdered Hamlet's father, delves deeply into themes of madness, betrayal, and existentialism."
+    },
+    {
+      "question": "What is the chemical symbol for water?",
+      "answer": "The chemical symbol for water is H2O. This means that each molecule of water is composed of two hydrogen (H) atoms covalently bonded to one oxygen (O) atom. Water is essential for life on Earth, covering about 71% of the planet's surface, and it plays a crucial role in weather systems, biological processes, and human activities."
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "answer": "Jupiter is the largest planet in our solar system. It is a gas giant with a diameter of about 142,984 kilometers (88,846 miles). Jupiter's massive size allows it to have a strong gravitational influence on other celestial bodies, including its 79 known moons. Its atmosphere is primarily composed of hydrogen and helium, and it features prominent bands of clouds and the famous Great Red Spot, a massive storm that has been raging for centuries."
+    },
+    {
+      "question": "What is the square root of 64?",
+      "answer": "The square root of 64 is 8. In mathematics, the square root of a number is a value that, when multiplied by itself, gives the original number. In this case, 8 multiplied by 8 equals 64. The square root function is fundamental in various fields of science and engineering, including geometry, physics, and computer science."
+    },
+    {
+      "question": "In which year did the Titanic sink?",
+      "answer": "The RMS Titanic sank on April 15, 1912, after hitting an iceberg during its maiden voyage from Southampton to New York City. The sinking resulted in the deaths of more than 1,500 people, making it one of the deadliest maritime disasters in history. The Titanic was the largest ship afloat at the time and was considered 'unsinkable' due to its advanced safety features, but the insufficient number of lifeboats and the ship's high speed in iceberg-infested waters contributed to the tragedy."
+    },
+    {
+      "question": "What is the speed of light?",
+      "answer": "The speed of light in a vacuum is precisely 299,792,458 meters per second, or approximately 300,000 kilometers per second (about 186,282 miles per second). This value is a fundamental constant of nature and plays a critical role in the theories of relativity developed by Albert Einstein. According to Einstein's theory of special relativity, nothing can travel faster than the speed of light, and this speed sets the upper limit for how quickly information or matter can move through space."
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "answer": "The Mona Lisa was painted by Leonardo da Vinci, an Italian polymath and one of the most important figures of the Renaissance. Painted between 1503 and 1506, the portrait is famous for its enigmatic expression, subtle details, and use of sfumato, a technique that creates a soft, gradual transition between colors and tones. The painting is housed in the Louvre Museum in Paris, where it attracts millions of visitors each year."
+    },
+    {
+      "question": "What is the boiling point of water?",
+      "answer": "The boiling point of water at standard atmospheric pressure (1 atmosphere or 101.3 kPa) is 100°C (212°F). Boiling occurs when the vapor pressure of the water equals the external pressure surrounding it. At higher altitudes, where atmospheric pressure is lower, water boils at a lower temperature. This property is essential in many scientific and industrial processes, such as cooking, sterilization, and chemical reactions."
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "answer": "Mars is known as the Red Planet due to its reddish appearance, which is caused by iron oxide (rust) on its surface. Mars is the fourth planet from the Sun and has been a focus of exploration due to the possibility that it may have once supported microbial life. The planet has polar ice caps, the largest volcano in the solar system (Olympus Mons), and evidence of ancient river valleys, indicating that liquid water may have existed there in the past."
+    }
+  ]
+  
